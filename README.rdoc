@@ -1,6 +1,7 @@
 = Calculatrice
 
-	Calculatrice simple d'utilsation
+	Calculatrice simple d'utilsation permettant de realiser 
+	les simples calculs arithmétiques
 
 
 == Langage utilisé
