@@ -1,11 +1,11 @@
 = Calculatrice
 
-Calculatrice si;ple d'utilsation
+	Calculatrice simple d'utilsation
 
 
 == Langage utilisé
 
-Java
+	Java
 
 == Ide
 
